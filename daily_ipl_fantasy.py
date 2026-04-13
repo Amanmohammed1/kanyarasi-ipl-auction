@@ -56,7 +56,7 @@ def scrape_stats():
             EC.presence_of_element_located((By.ID, "mobile_input"))
         )
         mobile_input.clear()
-        mobile_input.send_keys("9948905719")
+        mobile_input.send_keys("8008440586")
         time.sleep(1)
 
         # Click Continue button
